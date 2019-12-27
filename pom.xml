@@ -97,7 +97,7 @@
 	   <distributionManagement>
                <repository>
                 <id>test-release</id>
-                <url>http://34.201.126.194:8081/nexus/content/repositories/test-release</url>
+                <url>http://34.201.126.194:8081/nexus/content/repositories/test-release/</url>
                </repository>	   
 	</distributionManagement>
 	
