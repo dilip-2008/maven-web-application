@@ -93,20 +93,12 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
 	
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://34.201.126.194:8081/nexus/repository/releases/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.201.126.194:8081/nexus/repository/snapshots/</url>
-	    </snapshotRepository>
-	    
+	   <distributionManagement>
+               <repository>
+                <id>test-release</id>
+                <url>http://34.201.126.194:8081/nexus/content/repositories/test-release</url>
+               </repository>	   
 	</distributionManagement>
 	
 	<build>
