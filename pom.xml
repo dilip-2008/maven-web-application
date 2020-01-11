@@ -97,8 +97,8 @@
 	
 	   <distributionManagement>
                <repository>
-                <id>test-release</id>
-                <url>http://34.201.126.194:8081/nexus/content/repositories/test-release/</url>
+                <id>maven123</id>
+                <url>http://54.236.154.118:8081/nexus/content/repositories/maven123-release/</url>
                </repository>	   
 	</distributionManagement>
 	
