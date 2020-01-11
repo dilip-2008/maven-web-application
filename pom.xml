@@ -98,7 +98,7 @@
 	   <distributionManagement>
                <repository>
                 <id>maven123</id>
-                <url>http://54.236.154.118:8081/nexus/content/repositories/maven123/</url>
+                <url>http://54.236.154.118:8081/nexus/content/repositories/maven123</url>
                </repository>	   
 	</distributionManagement>
 	
