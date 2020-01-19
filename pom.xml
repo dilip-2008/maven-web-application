@@ -97,7 +97,7 @@
 	
 	   <distributionManagement>
                <repository>
-                <id>test-release</id>
+                <id>new-snap</id>
                 <url>http://34.229.148.129:8081/nexus/content/repositories/new-snap</url>
                </repository>	   
 	</distributionManagement>
